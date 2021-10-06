@@ -8,8 +8,7 @@ Original file is located at
 """
 
 
-
-"""**deep learning and neural networks**"""
+#relu function 
 
 x = 20
 print(x>0)
